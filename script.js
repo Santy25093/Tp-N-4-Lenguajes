@@ -3,7 +3,7 @@ const productos = [
     {
         nombre: "Auriculares Bluetooth",
         precio: 4500,
-        imagen: "img/buds.jpeg",
+        imagen: "img/Buds.jpeg",
         descripcion: "Auriculares inalámbricos con gran calidad de sonido."
     },
     {
