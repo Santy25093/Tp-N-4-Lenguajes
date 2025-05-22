@@ -56,7 +56,7 @@ const productos = [
     }
 ];
 
-// Usamos map() para recorrer los productos
+
 const contenedor = document.getElementById("contenedor-productos");
 
 productos.map(producto => {
